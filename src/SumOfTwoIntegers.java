@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package leetcode;
+
 
 /**
  *
@@ -15,6 +15,7 @@ package leetcode;
 public class SumOfTwoIntegers {
 
     public static void main(String[] args) {
-        System.out.println("yan");
+    
     }
+    
 }

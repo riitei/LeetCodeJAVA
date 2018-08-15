@@ -15,6 +15,6 @@ package leetcode;
 public class SumOfTwoIntegers {
 
     public static void main(String[] args) {
-        
+        System.out.println("yan");
     }
 }
